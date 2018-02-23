@@ -3,9 +3,50 @@
   <Files>
     <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
     <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
-    <ProjectItemFile Source="jquery-1.9.1.min.map" Target="Scripts\" Type="ElementFile" />
-    <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
-    <ProjectItemFile Source="jquery-1.9.1.js" Target="Scripts\" Type="ElementFile" />
-    <ProjectItemFile Source="jquery-1.9.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.slim.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.slim.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.slim.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.3.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="moment.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="moment.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="moment-with-locales.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="moment-with-locales.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper.min.js.map" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper.min.js" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper.js.map" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper.js" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper-utils.min.js.map" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper-utils.min.js" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper-utils.js.map" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="umd\popper-utils.js" Target="Scripts\umd\" Type="ElementFile" />
+    <ProjectItemFile Source="README.md" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper-utils.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper-utils.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper-utils.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="popper-utils.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="index.d.ts" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper.min.js.map" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper.min.js" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper.js.map" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper.js" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper-utils.min.js.map" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper-utils.min.js" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper-utils.js.map" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="esm\popper-utils.js" Target="Scripts\esm\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.bundle.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.bundle.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.bundle.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.bundle.js" Target="Scripts\" Type="ElementFile" />
   </Files>
 </ProjectItem>

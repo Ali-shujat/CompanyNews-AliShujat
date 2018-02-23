@@ -2,9 +2,50 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="Scripts">
     <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.slim.min.map" Url="Scripts/jquery-3.3.1.slim.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.slim.min.js" Url="Scripts/jquery-3.3.1.slim.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.slim.js" Url="Scripts/jquery-3.3.1.slim.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.min.map" Url="Scripts/jquery-3.3.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.min.js" Url="Scripts/jquery-3.3.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.js" Url="Scripts/jquery-3.3.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.3.1.intellisense.js" Url="Scripts/jquery-3.3.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.min.js" Url="Scripts/moment.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.js" Url="Scripts/moment.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.min.js" Url="Scripts/moment-with-locales.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.js" Url="Scripts/moment-with-locales.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper.min.js.map" Url="Scripts/umd/popper.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper.min.js" Url="Scripts/umd/popper.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper.js.map" Url="Scripts/umd/popper.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper.js" Url="Scripts/umd/popper.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper-utils.min.js.map" Url="Scripts/umd/popper-utils.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper-utils.min.js" Url="Scripts/umd/popper-utils.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper-utils.js.map" Url="Scripts/umd/popper-utils.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\umd\popper-utils.js" Url="Scripts/umd/popper-utils.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\README.md" Url="Scripts/README.md" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper.min.js.map" Url="Scripts/popper.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper.min.js" Url="Scripts/popper.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper.js.map" Url="Scripts/popper.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper.js" Url="Scripts/popper.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper-utils.min.js.map" Url="Scripts/popper-utils.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper-utils.min.js" Url="Scripts/popper-utils.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper-utils.js.map" Url="Scripts/popper-utils.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\popper-utils.js" Url="Scripts/popper-utils.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\index.d.ts" Url="Scripts/index.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper.min.js.map" Url="Scripts/esm/popper.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper.min.js" Url="Scripts/esm/popper.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper.js.map" Url="Scripts/esm/popper.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper.js" Url="Scripts/esm/popper.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper-utils.min.js.map" Url="Scripts/esm/popper-utils.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper-utils.min.js" Url="Scripts/esm/popper-utils.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper-utils.js.map" Url="Scripts/esm/popper-utils.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\esm\popper-utils.js" Url="Scripts/esm/popper-utils.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js.map" Url="Scripts/bootstrap.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js.map" Url="Scripts/bootstrap.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.min.js.map" Url="Scripts/bootstrap.bundle.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.min.js" Url="Scripts/bootstrap.bundle.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.js.map" Url="Scripts/bootstrap.bundle.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.js" Url="Scripts/bootstrap.bundle.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>

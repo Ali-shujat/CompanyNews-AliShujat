@@ -2,5 +2,6 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="Pages">
     <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\CompanyNews_AliShujat.aspx" Url="Pages/CompanyNews_AliShujat.aspx" ReplaceContent="TRUE" />
   </Module>
 </Elements>
