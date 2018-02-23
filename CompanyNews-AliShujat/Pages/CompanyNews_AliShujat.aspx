@@ -32,6 +32,7 @@
 
         // Function to prepare and issue the request to get SharePoint data
         function execCrossDomainRequest() {
+
             // executor: The RequestExecutor object Initialize the RequestExecutor with the app web URL.
             var executor = new SP.RequestExecutor(appweburl);
 
