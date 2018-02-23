@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="ca4bad0e-a2f8-4257-aba0-1281d0452762" 
+        solutionId="ca4bad0e-a2f8-4257-aba0-1281d0452762" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CompanyNews_AliShujat"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="1862fe3e-1d1c-45d2-bcf0-ef2b9a48ccbb" />
+  </features>
+</package>
